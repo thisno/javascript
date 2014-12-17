@@ -1,5 +1,5 @@
 /*
-use
+Usage : 
 
 $('#id').swapClass('class_a', 'class_b');
 

@@ -1,4 +1,5 @@
-/* use
+/* 
+Usage :
 $.getUrlVarSetDefault('page',1);
 */
 
